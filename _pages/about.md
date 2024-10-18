@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size=4> **Chen Yang**  </font>  
+<font strong size=4> Chen Yang  </font>  
 Email: cyangap@connect.ust.hk  
 Links: [CV](../files/paper1.pdf) / [Google Scholar](https://scholar.google.com/citations?user=Q70LgrAAAAAJ&hl=zh-CN)
 
