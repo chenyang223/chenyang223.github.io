@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Chen Yang**   
+**Chen Yang (杨晨）**   
 Email: cyangap@connect.ust.hk  
 Links: [CV](../files/CV_yc.pdf) / [Google Scholar](https://scholar.google.com/citations?user=Q70LgrAAAAAJ&hl=zh-CN)
 
