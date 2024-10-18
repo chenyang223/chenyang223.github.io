@@ -24,20 +24,22 @@ Publications
 Journal Publications
 ------
 
-- **Elective Surgery Sequencing and Scheduling under Uncertainty**  
+- [**Elective Surgery Sequencing and Scheduling under Uncertainty**](https://pubsonline.informs.org/doi/full/10.1287/msom.2022.0029)  
   Xiaojin Fu, Jin Qi, **Chen Yang***, Han Ye  
   *Manufacturing \& Service Operations Management* (2024) 26(3):893-910  
   2023 POMS-HK Best Student Paper Award Finalist
 
+<font size=6> * stands for corresponding author </font>
+
 Conference Proceedings
 ------
 
-- **Fragility Index: A New Approach for Binary Classification**
-  **Chen Yang**, Ziqiang Zhang, Bo Cao, Zheng Cui, Bin Hu, Tong Li, Daniel Zhuoyu Long, Jin Qi, Feng Wang, Ruohan Zhan
+- [**Fragility Index: A New Approach for Binary Classification**](https://dl.acm.org/doi/abs/10.1145/3580305.3599356)  
+  **Chen Yang**, Ziqiang Zhang, Bo Cao, Zheng Cui, Bin Hu, Tong Li, Daniel Zhuoyu Long, Jin Qi, Feng Wang, Ruohan Zhan  
   *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining* (2023), 2918-2929
 
-- **Solving the Traveling Salesman Problem with a Multiagent System**  
-  **Chen Yang**, Kwok Yip Szeto
+- [**Solving the Traveling Salesman Problem with a Multiagent System**](https://ieeexplore.ieee.org/document/8789895)  
+  **Chen Yang**, Kwok Yip Szeto  
   *2019 IEEE Congress on Evolutionary Computation (CEC)*, 158 - 165
 
 Working Papers
