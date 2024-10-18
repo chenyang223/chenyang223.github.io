@@ -21,8 +21,8 @@ repository               : "chenyang223/chenyang223.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "../images/standard photo.png"
+  name             : "Chen Yang"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Hong Kong"
