@@ -10,7 +10,7 @@ redirect_from:
 **Chen Yang (杨晨）**   
 Email: chenyang12@zju.edu.cn
 
-I am an Assistant Professor (ZJU-100 Young Professor, 百人计划研究员) in the [Department of Service Science and Operations Management, School of Management](http://www.som.zju.edu.cn/) at Zhejiang University. Before that, I obtained my Ph.D. in [Department of Industrial Engineering and Decision Analytics](https://www.ieda.ust.hk/eng/index.php) (IEDA) at Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by Professor [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22). 
+I am an Assistant Professor (ZJU-100 Young Professor, 百人计划研究员) in the [Department of Service Science and Operations Management, School of Management](http://www.som.zju.edu.cn/) at Zhejiang University. Before that, I obtained my Ph.D. in [Department of Industrial Engineering and Decision Analytics](https://www.ieda.ust.hk/eng/index.php) (IEDA) at Hong Kong University of Science and Technology (HKUST), where I was very fortunate to be advised by Professor [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22). 
 
 My research interests lie in understanding the uncertainty in data-driven decision-making. Specifically, I am working on healthcare operations management, trustworthy machine learning, and other broad topics in operations research, with tools such as distributionally robust optimization, stochastic programming, and risk measures. 
 
