@@ -21,14 +21,14 @@ repository               : "chenyang223/chenyang223.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/standard photo.png"
+  avatar           : "../images/1.png"
   name             : "Chen Yang"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Hong Kong"
-  employer         : "HKUST"
+  location         : "Hangzhou"
+  employer         : "ZJU"
   uri              : # URL
-  email            : "cyangap@connect.ust.hk" 
+  email            : "chenyang12@zju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
