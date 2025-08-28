@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 **Chen Yang (杨晨）**   
-Email: cyangap@connect.ust.hk  
-Links: [CV](../files/CV_yc.pdf) / [Google Scholar](https://scholar.google.com/citations?user=Q70LgrAAAAAJ&hl=zh-CN)
+Email: chenyang12@zju.edu.cn
 
 I am a Ph.D. candidate in [Department of Industrial Engineering and Decision Analytics](https://www.ieda.ust.hk/eng/index.php) (IEDA) at Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by Professor [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22). 
 
