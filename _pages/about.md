@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,16 +10,19 @@ redirect_from:
 **Chen Yang (杨晨）**   
 Email: chenyang12@zju.edu.cn
 
-I am a Ph.D. candidate in [Department of Industrial Engineering and Decision Analytics](https://www.ieda.ust.hk/eng/index.php) (IEDA) at Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by Professor [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22). 
+I am an Assistant Professor (ZJU-100 Young Professor, 百人计划研究员) in the [Department of Service Science and Operations Management, School of Management](http://www.som.zju.edu.cn/) at Zhejiang University. Before that, I obtained my Ph.D. in [Department of Industrial Engineering and Decision Analytics](https://www.ieda.ust.hk/eng/index.php) (IEDA) at Hong Kong University of Science and Technology (HKUST), where I am fortunate to be advised by Professor [Jin Qi](https://www.ieda.ust.hk/eng/faculty-staff.php?catid=5&sid=15&id=22). 
 
-My research interests are in data-driven decision-making and distributionally robust optimization, with applications in healthcare operations management.
+My research interests lie in understanding the uncertainty in data-driven decision-making. Specifically, I am working on healthcare operations management, trustworthy machine learning, and other broad topics in operations research, with tools such as distributionally robust optimization, stochastic programming, and risk measures. 
+
+Employment
+======
+- Assistant Professor, School of Management, Zhejiang University, 2025 - present
 
 Education
 ======
-- Ph.D. in Industrial Engineering and Decision Analytics, Hong Kong University of Science and Technology, 2020-present
+- Ph.D. in Industrial Engineering and Decision Analytics, Hong Kong University of Science and Technology, 2020-2025
 - M.Phil in Physics, Hong Kong University of Science and Technology, 2018-2019
 - B.S. in Physics, University of Chinese Academy of Science, University of Chinese Academy of Sciences, 2014-2018
-- Exchanged program, Technical University of Munich, Germany, 2017 fall
 
 Publications
 ======
@@ -45,62 +48,23 @@ Conference Proceedings
   **Chen Yang**, Kwok Yip Szeto  
   *2019 IEEE Congress on Evolutionary Computation (CEC)*, 158 - 165
 
-Working Papers
+Preprints
 ------
 
-- **Fragility-aware Classification for Understanding Risk and Improving Generalization**  
-  with Jin Qi, Ruohan Zhan  
+- [**Fragility-aware Classification for Understanding Risk and Improving Generalization**](https://arxiv.org/abs/2502.13024)
+  with Zheng Cui, Daniel Zhuoyu Long, Jin Qi, Ruohan Zhan  
 
-- **Optimal Selling Channel in Online Platforms: The Roles of Network Structure**  
-  with Lijian Lu, Jin Qi
-
-- **Hotspot Resolution in Cloud Computing**  
-  with Xinming Han, Jin Qi, Jie Song
-
-
-Teaching Experience
-=====
-**Hong Kong University of Science and Technology**  
-Teaching Assistant  
-- Prescriptive Analytics (2021, 2022, 2023 Fall)
-  Average student evaluation: 3.82/5.00 (Department average: 3.69/5.00)
-- Transportation Systems (2021, 2022 Spring)
-  Average student evaluation: 4.00/5.00 (Department average: 3.92/5.00)
-
-
-Projects
-=====
-- **Large-scale dynamic pricing in online retailing**, with Alibaba Group, 2022-2023
-- **Operations management in surgery planning and resource allocation**, with Hong Kong United Christian Hospital , 2024-present
-- **Operations management in the rheumatology department**, with Hong Kong Tseung Kwan O Hospital, 2024-present
 
 Selected Awards
 =====
 - 2023 POMS-HK Best Student Paper Award Finalist, 2023
 - Hong Kong PhD Fellowship, 2020-2023
 - HKUST Redbird Award, 2020
-- Postgraduate Studentship, HKUST, 2018
-- Third prize in the 30th Chinese Physics Olympiad, 2013
 
-Selected Presentations
-=====
-- **Elective Surgery Sequencing and Scheduling under Uncertainty**
-  - POMS-HK Conference, Hong Kong, 01/2023
-  - INFORMS Healthcare Conference, Toronto, Canada, 07/2023
-  - INFORMS Annual Meeting, Pheonix, USA, 10/2023
- 
-- **Fragility Index: A New Approach for Binary Classification**
-  - ACM SIGKDD Conference, Los Angeles, USA, 08/2023
 
-- **Optimal Selling Channel in Online Platforms: The Roles of Network Structure**
-  - POMS-HK Conference, Hong Kong, 01/2024
- 
-- **Fragility-aware Classification for Understanding Risk and Improving Generalization**
-  - (Upcoming) INFORMS Annual Meeting, Seattle, USA, 10/2024
- 
 Professional Activities
 =====
-Reviewer for *Naval Research Logistics*, *Production and Operations Management Society*.
+Reviewer for *Naval Research Logistics*, *Production and Operations Management Society*, *Manufacturing & Service Operations Management*.
 
 Session chair at POMS-HK 2024. 
 
